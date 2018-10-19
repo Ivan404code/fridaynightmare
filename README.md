@@ -1,17 +1,17 @@
-# Friday Nightmare
-This is an amazing friday expirience that no one wants to missout
+# Friday Nightmare (1st heading)
 
 
-## This is when i get bored
+
+## This is when i get bored(2nd heading)      
 
 I wanna go home
 
-### This is when start evaluating my life for the past 20 years
+### This is when start evaluating my life for the past 20 years (3rd heading)
 
 Im amzing
 
 
-**IVAN IS AMAZING**
+**IVAN IS AMAZING** (bold)
 
 ## SmartyPants
 
